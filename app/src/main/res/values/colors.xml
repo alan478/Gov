@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="amulight">#FAF0CA</color>
+    <color name="amudark">#0D3B66</color>
+    <color name="Orangeapp">#FFFF5722</color>
+    <color name="Orangelight">#FFFF9800</color>
+    <color name="violethighlight">#A97AEB</color>
+    <color name="lightpink">#F8CFF5</color>
+    <color name="lightpurple">#A578EB</color>
+    <color name="superlightpink">#FBE2F9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="complimentarygreen">#7AEB83</color>
+    <color name="black">#000000</color>
+    <color name="grey">#DCDCDC</color>
+</resources>

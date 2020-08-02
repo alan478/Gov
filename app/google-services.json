@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "652770411208",
+    "firebase_url": "https://vyappar.firebaseio.com",
+    "project_id": "vyappar",
+    "storage_bucket": "vyappar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652770411208:android:bc4b28bc3577e088561bfd",
+        "android_client_info": {
+          "package_name": "com.example.VyAppar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652770411208-1fl2fmqqhu1ekgd0a50ivrsa1mimsjtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ux8iQBnRfVHT4Spq4VimOhNiAWjM0xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652770411208-1fl2fmqqhu1ekgd0a50ivrsa1mimsjtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

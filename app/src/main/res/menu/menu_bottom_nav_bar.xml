@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/homebottom"
+        android:enabled="true"/>
+
+    <item android:title="Search"
+        android:icon="@drawable/searchwhite"
+        android:id="@+id/searchbottom"
+        android:enabled="true"/>
+
+    <item android:title="Cart"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        android:id="@+id/cartbottom"
+        android:iconTint="@color/Orangeapp"
+        android:iconTintMode="src_over"
+        android:enabled="true"/>
+
+    <item android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:id="@+id/profilebottom"
+        android:enabled="true"/>
+
+
+
+</menu>
